@@ -1,0 +1,2 @@
+<?
+$MESS['ALPHA_DEFAULT_TITLE'] = 'Меню';

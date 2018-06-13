@@ -1,0 +1,25 @@
+<?
+$MESS['BS_REGISTER_TITLE'] = 'Регистрация';
+$MESS['BS_TEXT_HAS_ACCOUNT_1'] = 'Уже есть учетная запись? Нажмите';
+$MESS['BS_TEXT_HAS_ACCOUNT_2'] = 'сюда';
+$MESS['BS_TEXT_HAS_ACCOUNT_3'] = 'для входа в свой аккаунт.';
+$MESS['BS_FIELD_NAME'] = 'Имя';
+$MESS['BS_FIELD_LAST_NAME'] = 'Фамилия';
+$MESS['BS_FIELD_LOGIN'] = 'Логин';
+$MESS['BS_FIELD_EMAIL'] = 'E-Mail';
+$MESS['BS_FIELD_PASSWORD'] = 'Пароль';
+$MESS['BS_FIELD_CONFIRM'] = 'Подтверждение пароля';
+$MESS['BS_FIELD_CAPTCHA_1'] = 'Проверочный код';
+$MESS['BS_FIELD_CAPTCHA_2'] = 'Сменить картинку';
+$MESS['BS_FIELD_CAPTCHA_3'] = 'Введите код с картинки';
+$MESS['BS_FIELD_TERMS_1'] = 'Я согласен с';
+$MESS['BS_FIELD_TERMS_2'] = 'условиями';
+$MESS['BS_FIELD_REGISTER'] = 'Зарегистрироваться';
+$MESS['BS_ERROR_LOGIN'] = 'Логин должен быть не короче 3 символов';
+$MESS['BS_ERROR_EMAIL'] = 'Введите корректный E-Mail';
+$MESS['BS_ERROR_PASSWORD'] = 'Пароль должен быть не короче 6 символов';
+$MESS['BS_ERROR_CONFIRM'] = 'Неверное подтверждение пароля';
+$MESS['BS_ERROR_TERMS'] = 'Небходимо принять условия использования';
+$MESS['BS_ERROR_CAPTCHA'] = 'Введите код с картинки';
+$MESS['BS_CONFIRM_TITLE_1'] = 'Я согласен на ';
+$MESS['BS_CONFIRM_TITLE_2'] = 'обработку персональных данных';

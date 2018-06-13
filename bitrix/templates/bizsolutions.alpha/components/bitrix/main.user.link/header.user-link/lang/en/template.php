@@ -1,0 +1,5 @@
+<?php
+$MESS['ALPHA_REGISTER_TITLE'] = "Register";
+$MESS['ALPHA_LOGIN_TITLE'] = "Login";
+$MESS['ALPHA_LOGOUT_TITLE'] = "Logout";
+$MESS['ALPHA_CABINET_TITLE'] = "Cabinet";

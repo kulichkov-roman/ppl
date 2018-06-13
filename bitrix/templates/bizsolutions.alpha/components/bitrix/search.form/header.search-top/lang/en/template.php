@@ -1,0 +1,3 @@
+<?
+$MESS ['ALPHA_SEARCH_TITLE'] = "Search";
+$MESS ['ALPHA_SEARCH_BUTTON'] = "Go";

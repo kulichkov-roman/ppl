@@ -1,0 +1,1 @@
+<a href="mailto:info@bizsolutions.ru" class="tooltips" data-toggle="tooltip" data-placement="bottom" data-original-title="Написать нам">info@bizsolutions.ru</a>

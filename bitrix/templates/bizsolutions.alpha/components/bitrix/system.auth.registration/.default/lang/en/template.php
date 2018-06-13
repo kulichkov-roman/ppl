@@ -1,0 +1,23 @@
+<?
+$MESS['ALPHA_REGISTER_TITLE'] = 'Register';
+$MESS['ALPHA_TEXT_HAS_ACCOUNT_1'] = 'Already Signed Up? Click';
+$MESS['ALPHA_TEXT_HAS_ACCOUNT_2'] = 'here';
+$MESS['ALPHA_TEXT_HAS_ACCOUNT_3'] = 'to login your account.';
+$MESS['ALPHA_FIELD_NAME'] = 'First Name';
+$MESS['ALPHA_FIELD_LAST_NAME'] = 'Last Name';
+$MESS['ALPHA_FIELD_LOGIN'] = 'Login';
+$MESS['ALPHA_FIELD_EMAIL'] = 'Email Address';
+$MESS['ALPHA_FIELD_PASSWORD'] = 'Password';
+$MESS['ALPHA_FIELD_CONFIRM'] = 'Confirm Password';
+$MESS['ALPHA_FIELD_CAPTCHA_1'] = 'Spam protection';
+$MESS['ALPHA_FIELD_CAPTCHA_2'] = 'Change image';
+$MESS['ALPHA_FIELD_CAPTCHA_3'] = 'Enter the captcha code';
+$MESS['ALPHA_FIELD_TERMS_1'] = 'I agree with the ';
+$MESS['ALPHA_FIELD_TERMS_2'] = 'terms';
+$MESS['ALPHA_FIELD_REGISTER'] = 'Sign Up';
+$MESS['ALPHA_ERROR_LOGIN'] = 'Username must be at least 3 characters';
+$MESS['ALPHA_ERROR_EMAIL'] = 'Enter a valid E-Mail';
+$MESS['ALPHA_ERROR_PASSWORD'] = 'The password must be at least 6 characters';
+$MESS['ALPHA_ERROR_CONFIRM'] = 'Wrong password confirmation';
+$MESS['ALPHA_ERROR_TERMS'] = 'It is required to accept the terms of use';
+$MESS['ALPHA_ERROR_CAPTCHA'] = 'Enter the captcha code';
