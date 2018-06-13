@@ -38,35 +38,6 @@ global $mainPage;
     ); ?>
     <!-- End Slider -->
 
-    <div class="container content">
-        <!-- Begin Highlights -->
-        <? $APPLICATION->IncludeComponent(
-            'bitrix:news.list',
-            'index.highlights',
-            array(
-                'IBLOCK_TYPE'               => 'content',
-                'IBLOCK_ID'                 => '8',
-                'NEWS_COUNT'                => '6',
-                'SORT_BY1'                  => 'SORT',
-                'SORT_ORDER1'               => 'ASC',
-                'FIELD_CODE'                => array(),
-                'PROPERTY_CODE'             => array(
-                    0 => 'BLOCK_TEXT',
-                    1 => 'BLOCK_LINK',
-                    2 => 'BLOCK_ICON',
-                    3 => 'BLOCK_COLOR',
-                ),
-                'SET_TITLE'                 => 'N',
-                'INCLUDE_IBLOCK_INTO_CHAIN' => 'N',
-                'ADD_SECTIONS_CHAIN'        => 'N',
-                'CACHE_TYPE'                => 'A',
-                'CACHE_TIME'                => '36000000',
-            )
-        ); ?>
-        <!-- End Highlights -->
-
-    </div>
-
     <div class="bg-grey">
         <div class="container content-sm">
             <!-- Service Blocks -->
