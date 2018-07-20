@@ -81,6 +81,7 @@ $mainPage = Option::get(BS_MODULE_ID, 'main');
 
     CJSCore::Init();
     ?>
+	<meta name="yandex-verification" content="4b9eb73482163aaf" />
 </head>
 
 <?
