@@ -29,8 +29,6 @@ if (!empty($arResult['SECTIONS'])) {
                         <? } ?>
                         <h2 class="heading-sm"><?= $arSection['NAME'] ?></h2>
                     </a>
-
-                    <p><?= $arSection['DESCRIPTION'] ?></p>
                 </div>
             </div>
         <? } ?>
